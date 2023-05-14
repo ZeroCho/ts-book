@@ -2,9 +2,14 @@
   "dependencies": {
     "@types/express": "^4.17.17",
     "@types/jquery": "^3.5.16",
+    "@types/node": "^18.15.3",
+    "@types/react": "^18.0.28",
     "axios": "^1.3.3",
     "express": "^4.18.2",
     "jquery": "^3.6.3",
+    "react": "^18.2.0",
+    "react-native": "^0.71.4",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
     "typescript": "^5.0.4"
   }
 }
